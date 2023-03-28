@@ -33,7 +33,7 @@ window.addEventListener('scroll', function () {
 })
 
 /* ScrollReveal*/
-const scrollReveal = ScrollReveal({
+const scrollReveal = scrollReveal({
   origin: 'top',
   distance: '30px',
   duration: 700,
