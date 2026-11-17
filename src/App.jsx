@@ -103,7 +103,7 @@ function About() {
         <div className="about-copy">
           <span className="eyebrow">NICE TO MEET YOU</span>
           <h2>
-            Oi, eu sou
+            Oi, eu sou{" "}
             <br />a <em>Rayssa.</em>
           </h2>
           <p className="lead">
